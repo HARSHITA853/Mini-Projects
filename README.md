@@ -1,0 +1,1 @@
+Welcome to the Python Mini Projects repository! This repo contains a collection of small but useful projects built using Python, covering various domains like automation, web development, data processing, and more.
